@@ -36,7 +36,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sombit4&theme=dracula" alt="sombit4" /></p>
 <h3 align="left">Contribution graph:</h3>
 
-[![SOMBIT4's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SOMBIT4&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![SOMBIT4's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SOMBIT4&theme=merko)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 <h3 align="left">Workflows:</h3>
 <div align="center">
