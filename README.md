@@ -38,4 +38,10 @@
 
 [![SOMBIT4's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SOMBIT4&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
+<h3 align="left">Workflows:</h3>
+<div align="center">
+  
+ ![snake gif](https://github.com/SOMBIT4/SOMBIT4/blob/output/github-snake-dark.svg)
+
+</div>
 
